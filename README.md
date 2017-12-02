@@ -1,6 +1,5 @@
 ## sankes for Study jQuery and css
-##### Let snake move is not easy thing for me,otherwise change the class of divs dynamicly is good way to drives div move similarly.
-##### So divide the canvas into several divs that you can controll, and write interval function of jQuery to change status of divs.
+ Let snake move is not easy thing for me,otherwise change the class of divs dynamicly is good way to drives div move similarly.So divide the canvas into several divs that you can controll, and write interval function of jQuery to change status of divs.
 * INDRODUCTION  
    press `LEFT key` or `A` key control the snake to left  
    press `RIGHT Key` or `D` key control the snake to right  
