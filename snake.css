@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+h2{
+	width: 400px;
+	position: absolute;
+	top: 20px;
+	left:200px;
+	text-align: center;
+}
+.game{
+	width: 640px;
+	height: 600px;
+	background-color: #F2FAFF;
+	border: 1px solid blue;
+	position: absolute;
+	top: 100px;
+	left:200px;
+}
+
+.info{
+	font-size: 30px;
+	width: 400px;
+	height: 400px;
+	background-color: #F2FAFF;
+	position: absolute;
+	top: 100px;
+	left:1050px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.none,.snakeHead,.food, .snakeBody, .snakeRear{
+	width: 40px;
+	height: 40px;
+	box-sizing: border-box;
+	position: absolute;
+	border: 1px solid blue;
+	box-sizing: border-box;
+}
+.snakeHead{
+	background-color: #b75ffe;	
+	border: 4px dashed #F2FAFF;
+}
+.none{
+	background-color: #F2FAFF;
+	border: 1px solid #F2FAFF;
+}
+.snakeBody{
+	background-color: #0f0000;
+	border: 2px dashed #F2FAFF;
+}
+
+.food{
+	background-color: green;
+	border: 3px dashed #F2FAFF;
+}
+.snakeRear{
+	background-color: #0f0000;
+	border: 5px solid #F2FAFF;
+}
+
+
+
+
